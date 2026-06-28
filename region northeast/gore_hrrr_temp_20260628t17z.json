@@ -1,0 +1,121 @@
+{
+  "site": "Gore Mountain",
+  "model_run": "20260628T17Z",
+  "variable": "2m_temperature_F",
+  "records": [
+    {
+      "forecast_hour": 0,
+      "temp_f": 78.54,
+      "valid_time": "06/28/26 2pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 1,
+      "temp_f": 78.52,
+      "valid_time": "06/28/26 3pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 2,
+      "temp_f": 79.02,
+      "valid_time": "06/28/26 4pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 3,
+      "temp_f": 79.12,
+      "valid_time": "06/28/26 5pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 4,
+      "temp_f": 78.92,
+      "valid_time": "06/28/26 6pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 5,
+      "temp_f": 76.56,
+      "valid_time": "06/28/26 7pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 6,
+      "temp_f": 75.83,
+      "valid_time": "06/28/26 8pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 7,
+      "temp_f": 74.37,
+      "valid_time": "06/28/26 9pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 8,
+      "temp_f": 71.05,
+      "valid_time": "06/28/26 10pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 9,
+      "temp_f": 69.32,
+      "valid_time": "06/28/26 11pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 10,
+      "temp_f": 67.76,
+      "valid_time": "06/29/26 12am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 11,
+      "temp_f": 66.59,
+      "valid_time": "06/29/26 1am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 12,
+      "temp_f": 65.69,
+      "valid_time": "06/29/26 2am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 13,
+      "temp_f": 65.58,
+      "valid_time": "06/29/26 3am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 14,
+      "temp_f": 65.09,
+      "valid_time": "06/29/26 4am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 15,
+      "temp_f": 63.58,
+      "valid_time": "06/29/26 5am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 16,
+      "temp_f": 63.0,
+      "valid_time": "06/29/26 6am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 17,
+      "temp_f": 63.78,
+      "valid_time": "06/29/26 7am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 18,
+      "temp_f": 67.45,
+      "valid_time": "06/29/26 8am",
+      "model_run": "20260628T17Z"
+    }
+  ]
+}

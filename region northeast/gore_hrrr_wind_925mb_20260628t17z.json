@@ -1,0 +1,178 @@
+{
+  "site": "Gore Mountain",
+  "model_run": "20260628T17Z",
+  "variable": "wind_925mb",
+  "records": [
+    {
+      "forecast_hour": 0,
+      "wind925_speed_mps": 2.486,
+      "wind925_speed_mph": 5.56,
+      "wind925_dir_deg": 50.3,
+      "wind925_dir": "NE",
+      "valid_time": "06/28/26 2pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 1,
+      "wind925_speed_mps": 2.356,
+      "wind925_speed_mph": 5.27,
+      "wind925_dir_deg": 48.1,
+      "wind925_dir": "NE",
+      "valid_time": "06/28/26 3pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 2,
+      "wind925_speed_mps": 2.134,
+      "wind925_speed_mph": 4.77,
+      "wind925_dir_deg": 43.5,
+      "wind925_dir": "NE",
+      "valid_time": "06/28/26 4pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 3,
+      "wind925_speed_mps": 1.953,
+      "wind925_speed_mph": 4.37,
+      "wind925_dir_deg": 54.5,
+      "wind925_dir": "NE",
+      "valid_time": "06/28/26 5pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 4,
+      "wind925_speed_mps": 1.869,
+      "wind925_speed_mph": 4.18,
+      "wind925_dir_deg": 42.5,
+      "wind925_dir": "NE",
+      "valid_time": "06/28/26 6pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 5,
+      "wind925_speed_mps": 2.092,
+      "wind925_speed_mph": 4.68,
+      "wind925_dir_deg": 28.5,
+      "wind925_dir": "NE",
+      "valid_time": "06/28/26 7pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 6,
+      "wind925_speed_mps": 1.738,
+      "wind925_speed_mph": 3.89,
+      "wind925_dir_deg": 33.3,
+      "wind925_dir": "NE",
+      "valid_time": "06/28/26 8pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 7,
+      "wind925_speed_mps": 1.98,
+      "wind925_speed_mph": 4.43,
+      "wind925_dir_deg": 31.2,
+      "wind925_dir": "NE",
+      "valid_time": "06/28/26 9pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 8,
+      "wind925_speed_mps": 2.473,
+      "wind925_speed_mph": 5.53,
+      "wind925_dir_deg": 20.6,
+      "wind925_dir": "N",
+      "valid_time": "06/28/26 10pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 9,
+      "wind925_speed_mps": 3.477,
+      "wind925_speed_mph": 7.78,
+      "wind925_dir_deg": 20.3,
+      "wind925_dir": "N",
+      "valid_time": "06/28/26 11pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 10,
+      "wind925_speed_mps": 4.75,
+      "wind925_speed_mph": 10.62,
+      "wind925_dir_deg": 37.0,
+      "wind925_dir": "NE",
+      "valid_time": "06/29/26 12am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 11,
+      "wind925_speed_mps": 4.642,
+      "wind925_speed_mph": 10.38,
+      "wind925_dir_deg": 45.3,
+      "wind925_dir": "NE",
+      "valid_time": "06/29/26 1am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 12,
+      "wind925_speed_mps": 3.116,
+      "wind925_speed_mph": 6.97,
+      "wind925_dir_deg": 51.3,
+      "wind925_dir": "NE",
+      "valid_time": "06/29/26 2am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 13,
+      "wind925_speed_mps": 1.63,
+      "wind925_speed_mph": 3.65,
+      "wind925_dir_deg": 60.8,
+      "wind925_dir": "NE",
+      "valid_time": "06/29/26 3am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 14,
+      "wind925_speed_mps": 0.905,
+      "wind925_speed_mph": 2.03,
+      "wind925_dir_deg": 47.1,
+      "wind925_dir": "NE",
+      "valid_time": "06/29/26 4am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 15,
+      "wind925_speed_mps": 0.061,
+      "wind925_speed_mph": 0.14,
+      "wind925_dir_deg": 184.2,
+      "wind925_dir": "S",
+      "valid_time": "06/29/26 5am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 16,
+      "wind925_speed_mps": 0.804,
+      "wind925_speed_mph": 1.8,
+      "wind925_dir_deg": 273.3,
+      "wind925_dir": "W",
+      "valid_time": "06/29/26 6am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 17,
+      "wind925_speed_mps": 1.426,
+      "wind925_speed_mph": 3.19,
+      "wind925_dir_deg": 287.1,
+      "wind925_dir": "W",
+      "valid_time": "06/29/26 7am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 18,
+      "wind925_speed_mps": 2.321,
+      "wind925_speed_mph": 5.19,
+      "wind925_dir_deg": 294.7,
+      "wind925_dir": "NW",
+      "valid_time": "06/29/26 8am",
+      "model_run": "20260628T17Z"
+    }
+  ]
+}

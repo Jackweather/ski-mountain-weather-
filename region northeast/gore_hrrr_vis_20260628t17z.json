@@ -1,0 +1,178 @@
+{
+  "site": "Gore Mountain",
+  "model_run": "20260628T17Z",
+  "variable": "vis_m",
+  "records": [
+    {
+      "forecast_hour": 0,
+      "vis_m": 16000.0,
+      "vis_mi": 9.94,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 2pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 1,
+      "vis_m": 15500.0,
+      "vis_mi": 9.63,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 3pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 2,
+      "vis_m": 14900.0,
+      "vis_mi": 9.26,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 4pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 3,
+      "vis_m": 14500.0,
+      "vis_mi": 9.01,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 5pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 4,
+      "vis_m": 14500.0,
+      "vis_mi": 9.01,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 6pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 5,
+      "vis_m": 14500.0,
+      "vis_mi": 9.01,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 7pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 6,
+      "vis_m": 14500.0,
+      "vis_mi": 9.01,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 8pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 7,
+      "vis_m": 14200.0,
+      "vis_mi": 8.82,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 9pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 8,
+      "vis_m": 14000.0,
+      "vis_mi": 8.7,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 10pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 9,
+      "vis_m": 13700.0,
+      "vis_mi": 8.51,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/28/26 11pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 10,
+      "vis_m": 13300.0,
+      "vis_mi": 8.26,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/29/26 12am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 11,
+      "vis_m": 12900.0,
+      "vis_mi": 8.02,
+      "vis_score": 9,
+      "vis_desc": "Very good",
+      "valid_time": "06/29/26 1am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 12,
+      "vis_m": 12500.0,
+      "vis_mi": 7.77,
+      "vis_score": 8,
+      "vis_desc": "Good",
+      "valid_time": "06/29/26 2am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 13,
+      "vis_m": 12600.0,
+      "vis_mi": 7.83,
+      "vis_score": 8,
+      "vis_desc": "Good",
+      "valid_time": "06/29/26 3am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 14,
+      "vis_m": 12700.0,
+      "vis_mi": 7.89,
+      "vis_score": 8,
+      "vis_desc": "Good",
+      "valid_time": "06/29/26 4am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 15,
+      "vis_m": 12700.0,
+      "vis_mi": 7.89,
+      "vis_score": 8,
+      "vis_desc": "Good",
+      "valid_time": "06/29/26 5am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 16,
+      "vis_m": 12800.0,
+      "vis_mi": 7.95,
+      "vis_score": 8,
+      "vis_desc": "Good",
+      "valid_time": "06/29/26 6am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 17,
+      "vis_m": 12800.0,
+      "vis_mi": 7.95,
+      "vis_score": 8,
+      "vis_desc": "Good",
+      "valid_time": "06/29/26 7am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 18,
+      "vis_m": 12800.0,
+      "vis_mi": 7.95,
+      "vis_score": 8,
+      "vis_desc": "Good",
+      "valid_time": "06/29/26 8am",
+      "model_run": "20260628T17Z"
+    }
+  ]
+}

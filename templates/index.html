@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Map Viewer</title>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/static/css/style.css" />
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="overlay">Zoom: <span id="zoom">-</span></div>
+    <div id="weather-widget" class="weather-widget hidden">
+      <button id="weather-close">×</button>
+      <div id="weather-content">
+        <h4>Gore Mountain</h4>
+        <div id="weather-body">Loading...</div>
+      </div>
+    </div>
+
+    <script>
+      const MAPBOX_TOKEN = "{{ mapbox_token }}";
+    </script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+    <script src="/static/js/map.js"></script>
+    <script src="/static/js/weather-panel.js"></script>
+  </body>
+</html>

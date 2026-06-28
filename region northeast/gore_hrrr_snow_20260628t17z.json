@@ -1,0 +1,216 @@
+{
+  "site": "Gore Mountain",
+  "model_run": "20260628T17Z",
+  "variable": "sde_m",
+  "records": [
+    {
+      "forecast_hour": 0,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 2pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 1,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 3pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 2,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 4pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 3,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 5pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 4,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 6pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 5,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 7pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 6,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 8pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 7,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 9pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 8,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 10pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 9,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/28/26 11pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 10,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/29/26 12am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 11,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/29/26 1am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 12,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/29/26 2am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 13,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/29/26 3am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 14,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/29/26 4am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 15,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/29/26 5am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 16,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/29/26 6am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 17,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/29/26 7am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 18,
+      "sde_m": 0.0,
+      "sde_in": 0.0,
+      "delta_m": 0.0,
+      "delta_in_positive": 0.0,
+      "cumulative_snow_m": 0.0,
+      "cumulative_snow_in": 0.0,
+      "valid_time": "06/29/26 8am",
+      "model_run": "20260628T17Z"
+    }
+  ]
+}

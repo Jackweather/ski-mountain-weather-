@@ -1,0 +1,178 @@
+{
+  "site": "Gore Mountain",
+  "model_run": "20260628T17Z",
+  "variable": "wind_925mb",
+  "records": [
+    {
+      "forecast_hour": 0,
+      "wind_speed_mps": 1.751,
+      "wind_speed_mph": 3.92,
+      "wind_dir_deg": 56.6,
+      "wind_dir": "NE",
+      "valid_time": "06/28/26 2pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 1,
+      "wind_speed_mps": 1.957,
+      "wind_speed_mph": 4.38,
+      "wind_dir_deg": 47.1,
+      "wind_dir": "NE",
+      "valid_time": "06/28/26 3pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 2,
+      "wind_speed_mps": 2.192,
+      "wind_speed_mph": 4.9,
+      "wind_dir_deg": 36.8,
+      "wind_dir": "NE",
+      "valid_time": "06/28/26 4pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 3,
+      "wind_speed_mps": 1.791,
+      "wind_speed_mph": 4.01,
+      "wind_dir_deg": 43.1,
+      "wind_dir": "NE",
+      "valid_time": "06/28/26 5pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 4,
+      "wind_speed_mps": 2.092,
+      "wind_speed_mph": 4.68,
+      "wind_dir_deg": 36.6,
+      "wind_dir": "NE",
+      "valid_time": "06/28/26 6pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 5,
+      "wind_speed_mps": 2.474,
+      "wind_speed_mph": 5.54,
+      "wind_dir_deg": 336.3,
+      "wind_dir": "NW",
+      "valid_time": "06/28/26 7pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 6,
+      "wind_speed_mps": 1.691,
+      "wind_speed_mph": 3.78,
+      "wind_dir_deg": 9.2,
+      "wind_dir": "N",
+      "valid_time": "06/28/26 8pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 7,
+      "wind_speed_mps": 0.943,
+      "wind_speed_mph": 2.11,
+      "wind_dir_deg": 3.1,
+      "wind_dir": "N",
+      "valid_time": "06/28/26 9pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 8,
+      "wind_speed_mps": 1.997,
+      "wind_speed_mph": 4.47,
+      "wind_dir_deg": 313.5,
+      "wind_dir": "NW",
+      "valid_time": "06/28/26 10pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 9,
+      "wind_speed_mps": 2.444,
+      "wind_speed_mph": 5.47,
+      "wind_dir_deg": 304.6,
+      "wind_dir": "NW",
+      "valid_time": "06/28/26 11pm",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 10,
+      "wind_speed_mps": 2.201,
+      "wind_speed_mph": 4.92,
+      "wind_dir_deg": 301.6,
+      "wind_dir": "NW",
+      "valid_time": "06/29/26 12am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 11,
+      "wind_speed_mps": 2.373,
+      "wind_speed_mph": 5.31,
+      "wind_dir_deg": 295.7,
+      "wind_dir": "NW",
+      "valid_time": "06/29/26 1am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 12,
+      "wind_speed_mps": 2.351,
+      "wind_speed_mph": 5.26,
+      "wind_dir_deg": 288.8,
+      "wind_dir": "W",
+      "valid_time": "06/29/26 2am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 13,
+      "wind_speed_mps": 1.771,
+      "wind_speed_mph": 3.96,
+      "wind_dir_deg": 289.2,
+      "wind_dir": "W",
+      "valid_time": "06/29/26 3am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 14,
+      "wind_speed_mps": 0.617,
+      "wind_speed_mph": 1.38,
+      "wind_dir_deg": 300.8,
+      "wind_dir": "NW",
+      "valid_time": "06/29/26 4am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 15,
+      "wind_speed_mps": 0.884,
+      "wind_speed_mph": 1.98,
+      "wind_dir_deg": 259.7,
+      "wind_dir": "W",
+      "valid_time": "06/29/26 5am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 16,
+      "wind_speed_mps": 0.975,
+      "wind_speed_mph": 2.18,
+      "wind_dir_deg": 350.0,
+      "wind_dir": "N",
+      "valid_time": "06/29/26 6am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 17,
+      "wind_speed_mps": 1.73,
+      "wind_speed_mph": 3.87,
+      "wind_dir_deg": 266.0,
+      "wind_dir": "W",
+      "valid_time": "06/29/26 7am",
+      "model_run": "20260628T17Z"
+    },
+    {
+      "forecast_hour": 18,
+      "wind_speed_mps": 1.8,
+      "wind_speed_mph": 4.03,
+      "wind_dir_deg": 282.7,
+      "wind_dir": "W",
+      "valid_time": "06/29/26 8am",
+      "model_run": "20260628T17Z"
+    }
+  ]
+}
